@@ -54,7 +54,7 @@ async function klaviyoFetch(path, options = {}) {
 }
 
 async function listTemplates() {
-  const data = await klaviyoFetch("/templates/?page[size]=50");
+  const data = await klaviyoFetch("/templates/?page[size]=10");
   for (const t of data.data) {
     console.log(`${t.id}  ${t.attributes.name}`);
   }
