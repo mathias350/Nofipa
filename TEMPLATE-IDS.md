@@ -29,6 +29,7 @@ Afvisningerne bruger kun `{{ firstname }}` og `{{ item }}`.
 | Acceptere ikke genstand | UidF4F | RXJWWz |
 | Dårlig stand | RZ9RyW | Xm2Bu2 |
 | Ingen kvittering | W7NhWR | Rg6DYy |
+| Under minimum | UgaVdM | R96Drd |
 
 Alle andre afvisnings-/afslagstemplates udgår og kan arkiveres i Klaviyo.
 
